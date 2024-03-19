@@ -1,0 +1,2 @@
+用于Cloudreve反向代理OneDrive下载, 
+原代码基础上添加禁止访问sharepoint主页防止域名被标记钓鱼
